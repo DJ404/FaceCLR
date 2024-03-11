@@ -91,5 +91,6 @@ python plot_tsne_n_classes.py -b 20
 
 The function ```plot_tsne()``` allows for the filtering of N classes, which will then be displayed in the plot.
 
-
-
+ emb_space: 128, 𝜏 = 0.5   | emb_space: 512, 𝜏 = 0.07
+:-------------------------:|:-------------------------:
+![](https://github.com/DJ404/FaceCLR/blob/main/TSNE/128_midt.png) |  ![](https://github.com/DJ404/FaceCLR/blob/main/TSNE/128_midt.png)
